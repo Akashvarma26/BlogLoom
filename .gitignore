@@ -1,3 +1,9 @@
+# Personal files/folders
+boto3_layer
+*.zip
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
