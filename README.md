@@ -15,3 +15,5 @@ Blog generator - Under development
 - Go to lambda function and in permissions tab under configuration tab click on role name link. Add the admin access in attach policies.
 - Test the api gateway link in postman with post method(body and raw).
 - Check CloudWatch, s3 for output. 
+
+- Don't forget to delete the services created as they may incur costs.
