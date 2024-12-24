@@ -16,4 +16,4 @@ Blog generator - Under development
 - Test the api gateway link in postman with post method(body and raw).
 - Check CloudWatch, s3 for output. 
 
-- Don't forget to delete the services created as they may incur costs.
+Note : Don't forget to delete the services created as they may incur costs.
